@@ -4,6 +4,7 @@ my config w/ dwm, slstatus and st
 Dependencies (from Arch repositores): picom dmenu adobe-source-code-pro-fonts ttf-nerd-fonts-symbols flameshot thunar
 
 main Keybinds:
+
   Win + Shit + x = close active window
   Win + Shit + s = screenshot (using flameshot)
   Win + Shift + e = open thunar (file manager)
