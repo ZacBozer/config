@@ -1,4 +1,4 @@
-# config
+# my config ![Screen shot](https://i.imgur.com/Tupbfn9.png) 
 my config w/ dwm, slstatus and st 
 
 Dependencies (from Arch repositores): picom dmenu adobe-source-code-pro-fonts ttf-nerd-fonts-symbols flameshot thunar floorp (can be changed in dwm/config.h)
@@ -33,4 +33,4 @@ Compile Suckless software:
 
     make clean install    
 
-![Screen shot](https://i.imgur.com/Tupbfn9.png) 
+
